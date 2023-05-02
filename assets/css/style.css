@@ -142,8 +142,18 @@ h1 {
     height: 0%;
 }
 
-.footer{
+.pie-paguina{
 
-    height: 30px;
     background-color: #328998;
 }
+
+.flex-item a i{
+
+color: #ffffff;
+
+}
+
+    
+
+
+
